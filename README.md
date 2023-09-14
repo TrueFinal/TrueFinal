@@ -6,6 +6,4 @@
 Hello, my name is Murillo, and i'm interested to act in projects about network's and cybersecurity. 
 I'm very much like to play in my free time, as a hobby i would say that is programing, i'm very much enjoy create little things in python. 
 I'm would like very much to become a DevSecOps in a near future.
-</p>  
-<p align="center">
-** Well, that's it. That is a little about me and my goals as an I.T profesional ☜(ﾟヮﾟ☜) **
+Well, that's it. That is a little about me and my goals as an I.T profesional ☜(ﾟヮﾟ☜)

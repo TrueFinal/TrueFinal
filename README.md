@@ -8,4 +8,4 @@ I'm very much like to play in my free time, as a hobby i would say that is progr
 I'm would like very much to become a DevSecOps in a near future.
 </p>  
 <p align="center">
-**Well, that's it. That is a little about me and my goals as an I.T profesional ☜(ﾟヮﾟ☜)**
+** Well, that's it. That is a little about me and my goals as an I.T profesional ☜(ﾟヮﾟ☜) **

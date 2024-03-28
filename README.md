@@ -1,9 +1,14 @@
-<h1>Hello! I'm Murillo</h1>
-<p align="center">
-<img src=<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Ffree-png-vaeno&psig=AOvVaw0mJD5glNDKAyjlz7-XrV0-&ust=1694808170468000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiMw8ryqoEDFQAAAAAdAAAAABAE>
-</p>
-<p align="center">
-Hello, my name is Murillo, and i'm interested to act in projects about network's and cybersecurity. 
-I'm very much like to play in my free time, as a hobby i would say that is programing, i'm very much enjoy create little things in python. 
-I'm would like very much to become a DevSecOps in a near future.
-Well, that's it. That is a little about me and my goals as an I.T profesional ☜(ﾟヮﾟ☜)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F5FFFA&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Murillo+Gabriel,+aspiring+DevOps;And+that's+my+GitHub+portfolio;+Hope+you+enjoi+my+projects!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=TrueFinal&show_icons=true&count_private=true&hide_border=true&title_color=FFFF00&icon_color=0000FF&text_color=F5FFFA&bg_color=0d1117" alt="Murillo Gabriel GitHub status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueFinal&layout=compact&hide_border=true&title_color=F5FFFA&text_color=F5FFFA&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/murillo-gabriel-mendes-santos-688847239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
